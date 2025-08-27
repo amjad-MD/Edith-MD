@@ -35,7 +35,7 @@ module.exports = {
   ANTI_MEDIA: process.env.ANTI_MEDIA || "false",
   AUTO_VOICE: process.env.AUTO_VOICE || "false",
   AUTO_STICKER: process.env.AUTO_STICKER || "false",
-  AUTO_REPLY: process.env.AUTO_REPLY || "false",
+  AUTO_REPLY: process.env.AUTO_REPLY || "true",
   ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
   PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
   AUTO_TYPING: process.env.AUTO_TYPING || "false",
