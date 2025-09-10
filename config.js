@@ -22,7 +22,7 @@ module.exports = {
   CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
   CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
   DELETE_LINKS: process.env.DELETE_LINKS || "false",
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "923253617422",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "923423793553",
   OWNER_NAME: process.env.OWNER_NAME || "Bandaheali",
   DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Bandaheali*",
   ALIVE_IMG: process.env.ALIVE_IMG || "https://cdn.inprnt.com/thumbs/5d/0b/5d0b7faa113233d7c2a49cd8dbb80ea5@2x.jpg",
